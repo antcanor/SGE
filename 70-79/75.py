@@ -1,4 +1,4 @@
-
+"""Crea una clase Pedido con líneas y un metodo total() que sume precio por cantidad."""
 class LineaPedido:
     def __init__(self, producto: str, cantidad: int, precio_unitario: float):
         self.producto = producto
