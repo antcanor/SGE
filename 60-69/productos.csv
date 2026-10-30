@@ -1,0 +1,6 @@
+codigo,nombre,precio,stock,categoria
+P001,Teclado Mecanico,49.99,15,Perifericos
+P002,Raton Inalambrico,25.50,20,Perifericos
+P003,Monitor 24 Pulgadas,129.00,8,Pantallas
+P004,Disco SSD 1TB,79.95,12,Almacenamiento
+P005,Memoria RAM 16GB,45.00,25,Componentes
